@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Hadlay.Zhang, currently a Bachelor's student majoring in Computer Science in Tongji University.
 - 🏢 I'm currently working as an R&D Intern at @Momenta in Shanghai
-- 🔭 I’m interested in Multi-modal Machine Learning, Question Asswering (QA) and robust conversational AI.
+- 🔭 I’m interested in Multi-modal Machine Learning, Question Answering (QA) and robust conversational AI.
 - 📫 How to reach me: hadlay.zhang@gmail.com
 
 <!--
