@@ -1,5 +1,6 @@
-- 👋 Hi, I'm @Hadlay.Zhang, currently a Bachelor's student majoring in Computer Science in Tongji University.
-- 🔭 I’m interested in Multi-modal Machine Learning, Question Answering (QA) and robust conversational AI.
+- 👋 Hi, I'm @Hadlay.Zhang, a Bachelor's student majoring in Computer Science at Tongji University.
+- 🎓 I will be joining NYU Tandon MSCS as a graduate student in Fall 2024.
+- 📘 I’m interested in Multi-modal Learning, especially Visual Question Answering (VQA), and robust conversational AI.
 - 📫 How to reach me: hadlay.zhang@gmail.com
 
 <!-- 
