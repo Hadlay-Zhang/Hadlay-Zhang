@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Hadlay.Zhang, a MSCS student at NYU Tandon.
-- 📘 I’m interested in Multi-modal Learning, especially Visual Question Answering (VQA), and robust conversational AI.
-- 📫 How to reach me: hadlay.zhang@gmail.com
+- 📘 I’m interested in Multi-modal Learning, especially Visual Question Answering (VQA), and LLM agents. Please contact me if you have relevant research opportunities!
+- 📫 How to reach me: hadlay.zhang@gmail.com or zz10068@nyu.edu
 
 <!-- 
 - 🎓 I will be joining NYU Tandon MSCS as a graduate student in Fall 2024.
