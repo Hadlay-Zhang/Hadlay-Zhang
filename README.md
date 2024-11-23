@@ -2,6 +2,10 @@
 - 📘 I’m interested in Multi-modal Learning, especially Visual Question Answering (VQA), and LLM agents. Please contact me if you have relevant research opportunities!
 - 📫 How to reach me: hadlay.zhang@gmail.com or zz10068@nyu.edu
 
+![Hadlay-Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hadlay-Zhang&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadlay-Zhang&layout=compact)](https://github.com/Hadlay-Zhang/github-readme-stats)
+
 <!-- 
 - 🎓 I will be joining NYU Tandon MSCS as a graduate student in Fall 2024.
 - 🏢 I'm currently working as an R&D Intern at @Momenta in Shanghai
