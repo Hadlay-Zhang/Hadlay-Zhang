@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @Hadlay.Zhang, a MSCS student at NYU Tandon.
-- 📘 I’m interested in Multi-modal Learning, especially Visual Question Answering (VQA), and LLM agents. Please contact me if you have relevant research opportunities!
+- 👋 Hi, I'm @Hadlay.Zhang, a MSCS student at New York University. I'm an incoming PhD student at University of Illinois Chicago, advised by Prof. [Lu Cheng](https://lcheng.org/).
+- 📘 I’m interested in Multimodal Learning and LLM-based Multi-Agent Systems. I'm open to research collaborations, so feel free to reach out!
 - 📫 How to reach me: hadlay.zhang@gmail.com or zz10068@nyu.edu
 
 [![](https://raw.githubusercontent.com/Hadlay-Zhang/Hadlay-Zhang/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
