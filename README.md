@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Hadlay.Zhang, a MSCS student at New York University. I'm an incoming PhD student at University of Illinois Chicago, advised by Prof. [Lu Cheng](https://lcheng.org/).
+- 👋 Hi, I'm @Hadlay.Zhang. I'm an incoming PhD student at Pennsylvania State University, advised by Prof. [Lu Cheng](https://lcheng.org/).
 - 📘 I’m interested in Multimodal Learning and LLM-based Multi-Agent Systems. I'm open to research collaborations, so feel free to reach out!
 - 📫 How to reach me: hadlay.zhang@gmail.com or zz10068@nyu.edu
 
