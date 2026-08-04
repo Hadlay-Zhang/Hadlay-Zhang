@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Hadlay.Zhang. I'm an incoming PhD student at Pennsylvania State University, advised by Prof. [Lu Cheng](https://lcheng.org/).
-- 📘 I’m interested in Multimodal Learning and LLM-based Multi-Agent Systems. I'm open to research collaborations, so feel free to reach out!
+- 📘 I’m interested in Multimodal Learning and Multi-Agent Systems. I'm open to research collaborations, so feel free to reach out!
 - 📫 How to reach me: hadlay.zhang@gmail.com or zz10068@nyu.edu
 
 [![](https://raw.githubusercontent.com/Hadlay-Zhang/Hadlay-Zhang/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
